@@ -18,80 +18,80 @@ const questionsData = [
         ]
     },
     {
-        "question": "Name something you find in a toolbox.",
+        "question": "Name something that suddenly becomes invisible when you really need it.",
         "answers": [
-            { "answer": "Hammer", "points": 40 },
-            { "answer": "Screwdriver", "points": 30 },
-            { "answer": "Wrench", "points": 20 },
-            { "answer": "Tape Measure", "points": 5 },
-            { "answer": "Pliers", "points": 3 },
-            { "answer": "Saw", "points": 2 }
+            { "answer": "Keys", "points": 40 },
+            { "answer": "Phone", "points": 30 },
+            { "answer": "Charger", "points": 20 },
+            { "answer": "Pen", "points": 5 },
+            { "answer": "Towel", "points": 3 },
+            { "answer": "TV remote", "points": 2 }
         ]
     },
     {
-        "question": "Name a popular pizza topping.",
+        "question": "Name a situation where people lie confidently.",
         "answers": [
-            { "answer": "Pepperoni", "points": 50 },
-            { "answer": "Mushrooms", "points": 20 },
-            { "answer": "Onions", "points": 12 },
-            { "answer": "Sausage", "points": 8 },
-            { "answer": "Bacon", "points": 6 },
-            { "answer": "Extra Cheese", "points": 4 }
+            { "answer": "Job interview", "points": 50 },
+            { "answer": "Doctor asking about diet", "points": 20 },
+            { "answer": "When caught sleeping during a call", "points": 12 },
+            { "answer": "When they say “I’m almost there”", "points": 8 },
+            { "answer": "When replying “Seen but forgot to reply”", "points": 6 },
+            { "answer": "Giving excuses for being late", "points": 4 }
         ]
     },
     {
-        "question": "Name a famous superhero.",
+        "question": "What’s something people pretend to understand but don’t?",
         "answers": [
-            { "answer": "Superman", "points": 45 },
-            { "answer": "Batman", "points": 30 },
-            { "answer": "Spider-Man", "points": 15 },
-            { "answer": "Wonder Woman", "points": 5 },
-            { "answer": "Captain America", "points": 3 },
-            { "answer": "Iron Man", "points": 2 }
+            { "answer": "Company strategy slides", "points": 45 },
+            { "answer": "Financial Terms", "points": 30 },
+            { "answer": "Cryptocurrency", "points": 15 },
+            { "answer": "Lyrics in English songs", "points": 5 },
+            { "answer": "Art/Abstract art", "points": 3 },
+            { "answer": "Forwarded family WhatsApp", "points": 2 }
         ]
     },
     {
-        "question": "Name something you might see at a circus.",
+        "question": "What might a cat secretly be plotting?",
         "answers": [
-            { "answer": "Clowns", "points": 40 },
-            { "answer": "Elephants", "points": 25 },
-            { "answer": "Acrobats", "points": 15 },
-            { "answer": "Lions/Tigers", "points": 10 },
-            { "answer": "Trapeze Artists", "points": 5 },
-            { "answer": "Popcorn", "points": 5 }
+            { "answer": "World Domination", "points": 40 },
+            { "answer": "Your demise", "points": 25 },
+            { "answer": "Knocking stuff off shelves", "points": 15 },
+            { "answer": "Stealing your food", "points": 10 },
+            { "answer": "Escaping the house", "points": 5 },
+            { "answer": "Making you its servant", "points": 5 }
         ]
     },
     {
-        "question": "Name a common household chore.",
+        "question": "Name an excuse people give when they haven't done their work.",
         "answers": [
-            { "answer": "Washing Dishes", "points": 30 },
-            { "answer": "Laundry", "points": 25 },
-            { "answer": "Vacuuming", "points": 20 },
-            { "answer": "Taking out Trash", "points": 15 },
-            { "answer": "Dusting", "points": 5 },
-            { "answer": "Cleaning Bathroom", "points": 5 }
+            { "answer": "Laptop had issues", "points": 30 },
+            { "answer": "Waiting for input", "points": 25 },
+            { "answer": "Thought someone else was doing it", "points": 20 },
+            { "answer": "Was about to do it", "points": 15 },
+            { "answer": "It’s almost done", "points": 5 },
+            { "answer": "Didn’t get the mail", "points": 5 }
         ]
     },
     {
-        "question": "Name a type of fruit.",
+        "question": "Name something you wouldn’t want to sit on accidentally.",
         "answers": [
-            { "answer": "Apple", "points": 38 },
-            { "answer": "Banana", "points": 27 },
-            { "answer": "Orange", "points": 18 },
-            { "answer": "Grapes", "points": 10 },
-            { "answer": "Strawberry", "points": 5 },
-            { "answer": "Watermelon", "points": 2 }
+            { "answer": "Wet paint", "points": 38 },
+            { "answer": "Cactus", "points": 27 },
+            { "answer": "Cake", "points": 18 },
+            { "answer": "Open Pen", "points": 10 },
+            { "answer": "A chai spill", "points": 5 },
+            { "answer": "A sleeping cat/dog", "points": 2 }
         ]
     },
     {
-        "question": "Name something people do on a computer.",
+        "question": "Name something you find in a Hyderabadi bachelor’s fridge.",
         "answers": [
-            { "answer": "Browse Internet", "points": 42 },
-            { "answer": "Send Email", "points": 28 },
-            { "answer": "Play Games", "points": 15 },
-            { "answer": "Work", "points": 8 },
-            { "answer": "Watch Videos", "points": 4 },
-            { "answer": "Social Media", "points": 3 }
+            { "answer": "Leftover biryani", "points": 42 },
+            { "answer": "Empty water bottle", "points": 28 },
+            { "answer": "Green chutney packet", "points": 15 },
+            { "answer": "Half lemon", "points": 8 },
+            { "answer": "Milk packet (from 4 days ago)", "points": 4 },
+            { "answer": "Nothing at all", "points": 3 }
         ]
     }
 ];
